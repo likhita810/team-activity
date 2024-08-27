@@ -1,0 +1,41 @@
+.userSignin{
+    margin: 5% auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.8);
+    box-shadow: 3px 3px 10px yellow;
+}
+
+.uH1 {
+    text-align: center;
+    color: yellow;
+    font-style: italic;
+}
+
+.uForm {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.uForm .uFormDiv {
+    margin-left: 10%;
+}
+
+.uForm .uFormDiv p {
+    color: yellow;
+}
+
+.uForm .uFormDiv input {
+    width: 90%;
+    outline:yellow;
+}
+
+.uSubmit {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: yellow;
+    color: black;
+}

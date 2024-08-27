@@ -1,0 +1,65 @@
+
+.main{
+    border: 1px solid;
+    padding: 30px;
+    width: 60%;
+    margin: 150px auto;
+    border: none;
+    box-shadow: 4px 7px 15px blueviolet;
+}
+
+.mainh1 {
+    text-align: center;
+    font-style: oblique;
+    color: blueviolet;
+}
+
+.mainBtns {
+    margin-left: 100px;
+    padding: 20px;
+    position: relative;
+}
+.ticBtn{
+    margin-left: 26%
+}
+.imgclass{
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: -30px;
+    border-radius: 30px;
+    text-decoration: none;
+    background: none;
+}
+.imgclass1{
+    width: 150px;
+    height: 150px;
+    top: -30px;
+    left: 200px;
+    border-radius: 30px;
+    text-decoration: none;
+    background: none;
+}
+
+.create {
+    padding: 15px;
+    border: none;
+    position: absolute;
+    background-color: rgb(252, 69, 69);
+    margin: 15px;
+    margin-top: 180px;
+    left: 150px;
+    border-radius: 5px;
+}
+
+.resolve {
+    padding: 15px;
+    border: none;
+    position: absolute;
+    background-color: rgb(42, 238, 42);
+    margin: 15px;
+    border-radius: 5px;
+    margin-top: 180px;
+    left: 370px;
+    /* margin-right: 100px; */
+}

@@ -1,0 +1,41 @@
+.adminLogin{
+    margin: 10% auto;
+    width: 50%;
+    padding: 20px;
+    border: 1px solid rgb(89, 255, 0);
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.7);
+    box-shadow: 2px 2px 5px rgb(89, 255, 0);
+}
+
+.adminH1 {
+    text-align: center;
+    color: rgb(89, 255, 0);
+    font-style: italic;
+}
+
+.adminForm {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.adminForm .div {
+    margin-left: 10%;
+}
+
+.adminForm .div p {
+    color: rgb(89, 255, 0);
+}
+
+.adminForm .div input {
+    width: 90%;
+}
+
+.aSubmit {
+    margin-left: 10%;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(89, 255, 0);
+    color: black;
+}
